@@ -1,13 +1,25 @@
-- 👋 Hi, I’m @MrAbdelhadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About Me
 
-<!---
-MrAbdelhadi/MrAbdelhadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-python java pytorch tensorflow azure c cplusplus css3 dart docker express figma firebase flask flutter git hadoop html5 illustrator javascript linux matlab mongodb mssql mysql nodejs opencv oracle pandas photoshop php postgresql postman laravel scikit_learn seaborn sqlite arduino
+I am a programmer who loves coding and aims to develop smart and helpful applications.
+
+## 🛠 Skills and Technologies I Master
+
+- **Programming Languages:** Python, C#
+- **Web Technologies:** HTML5, CSS3, JavaScript, PHP, Laravel
+- **Databases:** MySQL, Pandas
+- **Operating Systems:** Linux
+- **Cybersecurity:** Red Team Operations
+
+## 💼 Business Software Development
+
+I specialize in developing applications that help businesses improve efficiency and productivity. Some areas I work on include:
+
+- **Enterprise Resource Planning (ERP) Systems**
+- **Invoicing and Sales Management Systems**
+- **Customer Relationship Management (CRM) Systems**
+- **Data Analysis and Artificial Intelligence**
+- **Cybersecurity and Protection Systems**
+
+---
+
+🚀 *Passionate about building intelligent and secure applications!*
