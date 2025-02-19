@@ -20,9 +20,7 @@ I specialize in developing applications that help businesses improve efficiency 
 - **Data Analysis and Artificial Intelligence**
 - **Cybersecurity and Protection Systems**
 
----
 
-🚀 *Passionate about building intelligent and secure applications!*
 ### 🚀 Programming Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
